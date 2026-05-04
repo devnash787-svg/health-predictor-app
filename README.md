@@ -18,4 +18,4 @@ An advanced machine learning-based web application that predicts health risks su
 - ReportLab
 
 ## 🌐 Live App
-[Click Here](YOUR_STREAMLIT_LINK)
+[Click Here](https://health-predictor-app-knebnvdgp57dcwkzvxilux.streamlit.app/)
